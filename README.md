@@ -1,2 +1,0 @@
-# skrbls
-skrbls landing page
